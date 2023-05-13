@@ -28,7 +28,7 @@ When you're finished with the changes, create a pull request, also known as a PR
 - Don't forget to [link PR to issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue) if you are solving one.
 - Once you submit your PR, I will review your proposal. I may ask questions or request additional information.
 
-#### **IMPORTANT**
+### **IMPORTANT**
 - If you're working on a Python script, make sure the the script can be ran using:
 ```
 python3 "name_of_script.py"
