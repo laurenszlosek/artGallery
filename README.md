@@ -11,11 +11,8 @@ An open source project for manipulating art with python code.
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
 
-<br>
-
 ## Contributing
-
-See the contributing guide for detailed instructions on how to add to the project.
+[Contribution guidelines for this project](CONTRIBUTING.md)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
