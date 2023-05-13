@@ -11,8 +11,8 @@
   }
   .category-text{
     color: pink;
-    background-color: PaleVioletRed; /* Set the background color here */
-    padding: 5px; /* Add some padding to create space around the text */
+    background-color: PaleVioletRed; 
+    padding: 5px; 
     display: inline-block;
   }
   h1 {
