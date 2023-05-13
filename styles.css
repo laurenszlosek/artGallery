@@ -1,25 +1,29 @@
-.header {
-  padding: 5px;
-  text-align: center;
-  background: pink;
-}
-
-body {
+  .header {
+    padding: 5px;
+    text-align: center;
+    background: pink;
+  }
+  body {
     font-family: Arial, sans-serif;
     text-align: center;
     background-image: url("images/bg.png");
     background-repeat: repeat-y;
   }
-  
+  .category-text{
+    color: pink;
+    background-color: PaleVioletRed; /* Set the background color here */
+    padding: 5px; /* Add some padding to create space around the text */
+    display: inline-block;
+  }
   h1 {
     color: PaleVioletRed;
     font-family: "Lucida Console";
   }
   
   h2 {
+    color: PaleVioletRed;
     margin-top: 20px;
     font-family: "Lucida Console";
-    color: PaleVioletRed;
   }
   
   .container {
@@ -32,38 +36,18 @@ body {
   .column {
     flex: 50%;
     padding: 10px;
-    justify-content: center;
-    align-items: center;
-    
   }
   
-  .image-wrapper {
-    position: relative;
-  }
-  
-  .image-wrapper img {
+  .column img {
     display: block;
     max-width: 100%;
     height: auto;
-    position: absolute;
-    top: 0;
-    left: 0;
-  }
-  
-  .image-wrapper img:first-child {
-    top: 70px;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
+    margin: 0 auto 20px;
     max-width: 400px;
-  }
-
-  .image-wrapper img + img {
-    position: relative;
-    top: auto;
-    left: auto;
-    width: 400px;
-    margin: 20px auto 0;
+    width: 650px;
+    padding: 5px;
+    border: 8px solid #B8860B;
+    background-color: #FFEBCD;
   }
   .footer {
     padding: 10px;
