@@ -4,7 +4,7 @@
 
 An open source project for manipulating art with python code.
 
-[Link to the current project!]([https://www.genome.gov/](https://python-art-gallery.netlify.app/))
+[Link to the current project!](https://python-art-gallery.netlify.app/)
 </div>
 
 <div align="center">
